@@ -2,7 +2,7 @@ const productos = [
     {
       id: 1,
       nombre: "Gel refrescante Vichy",
-      imagen: "/imagenes/gel.refrescante.jpg",
+      imagen: "imagenes/gel.refrescante.jpg",
       precio: 20,
       stock: 5,
     },
@@ -10,7 +10,7 @@ const productos = [
       id: 2,
       nombre: "espuma ecelon",
       
-      imagen: "/imagenes/Espuma.png",
+      imagen: "imagenes/Espuma.png",
       precio: 15,
       stock: 10,
     },
@@ -18,7 +18,7 @@ const productos = [
       id: 3,
       nombre: "del de limpieza",
       
-      imagen: "/imagenes/geldelimpieza.jpg",
+      imagen: "imagenes/geldelimpieza.jpg",
       precio: 35,
       stock:4,
     },
@@ -26,7 +26,7 @@ const productos = [
       id: 4,
       nombre: "serum acido hialuronico Loreal",
       
-      imagen: "/imagenes/serum.jpg",
+      imagen: "imagenes/serum.jpg",
       precio: 15,
       stock: 16,
     },
