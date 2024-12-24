@@ -1,0 +1,15 @@
+[
+    {
+      "userId": 1,
+      "id": 1,
+      "nombre": "Gel refrescante Vichy",
+      
+      "image": "/gel.refrescante.jpg"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "espuma ecelon",
+      "image": "/imagenes/Espuma.png"
+    }
+  ]
